@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiskbnascimento)
 
 
+
 ![Luis Brasiliano GitHub stats](https://github-readme-stats.vercel.app/api?username=luisbrasiliano21&show_icons=true&theme=transparent)
 
 
@@ -21,4 +22,4 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e em aprender tudo.
+Apaixonado por tecnologia e em aprender.
