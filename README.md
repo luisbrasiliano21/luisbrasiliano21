@@ -6,6 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiskbnascimento)
 
 
+![Luis Brasiliano GitHub stats](https://github-readme-stats.vercel.app/api?username=luisbrasiliano21&show_icons=true&theme=transparent)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
